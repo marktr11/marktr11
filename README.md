@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Data Science undergraduate with a deep enthusiasm for Machine Learning and Artificial Intelligence. My interests lie in developing innovative solutions, particularly in Recommendation Systems, Trading Algorithms and Robo-Advisors.
+I am a Data Science undergraduate with a deep enthusiasm for Machine Learning and Artificial Intelligence. My interests lie in developing innovative solutions, particularly in Recommendation Systems, Predictive Analytics and Optimization.
 
 ## Let's Connect
 
