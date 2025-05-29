@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-I’m a passionate undergraduate in Data Science based in France, with a strong enthusiasm for **Machine Learning** and **Artificial Intelligence**.  
-I love building intelligent systems that solve real-world problems—especially in:
+I’m a passionate undergraduate in Data Science based in France, deeply interested in the field of **Artificial Intelligence**, with a strong focus on **Machine Learning** applications.  
+My current focus includes:
 
 - 🎯 Recommendation Systems  
 - 📈 Predictive Analytics  
