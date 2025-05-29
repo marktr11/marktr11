@@ -1,10 +1,21 @@
-## About Me
+## 👋 About Me
 
-I am a Data Science undergraduate, studying in France with a deep enthusiasm for Machine Learning and Artificial Intelligence. My interests lie in developing innovative solutions, particularly in Recommendation Systems, Predictive Analytics and LLMs.
+I’m a passionate undergraduate in Data Science based in France, with a strong enthusiasm for **Machine Learning** and **Artificial Intelligence**.  
+I love building intelligent systems that solve real-world problems—especially in:
 
-## Contact
+- 🎯 Recommendation Systems  
+- 📈 Predictive Analytics  
+- 🧠 Large Language Models (LLMs)
 
-- tr.binhminh11@gmail.com
+---
 
+## 💬 Feel Free to Reach Out
 
+- 📧 Email: [tr.binhminh11@gmail.com](mailto:tr.binhminh11@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/binhminh11](https://www.linkedin.com/in/binhminh11/)
 
+---
+
+## 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=binhminh11&style=flat-square&color=blue)
