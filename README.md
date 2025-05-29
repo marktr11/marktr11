@@ -7,15 +7,11 @@ I love building intelligent systems that solve real-world problems—especially 
 - 📈 Predictive Analytics  
 - 🧠 Large Language Models (LLMs)
 
----
 
 ## 💬 Feel Free to Reach Out
 
 - 📧 Email: [tr.binhminh11@gmail.com](mailto:tr.binhminh11@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/binhminh11](https://www.linkedin.com/in/binhminh11/)
 
----
-
-## 📊 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binhminh11&style=flat-square&color=blue)
