@@ -13,7 +13,5 @@ My current focus includes:
 - 📧 Email: [tr.binhminh11@gmail.com](mailto:tr.binhminh11@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/binhminh11](https://www.linkedin.com/in/binhminh11/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marktr11&layout=compact&langs_count=8&theme=tokyonight)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binhminh11&style=flat-square&color=blue)
