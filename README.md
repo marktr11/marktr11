@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m a passionate undergraduate in Data Science based in France, deeply interested in the field of **Artificial Intelligence**, with a strong focus on **Machine Learning** applications.  
+I’m a student in Data Science based in France, deeply interested in the field of **Artificial Intelligence**, with a strong focus on **Machine Learning** applications.  
 My passion lies in building and optimizing intelligent systems, focusing not only on performance and quality but also on refining the overall user experience.
 
 My current focus includes:
